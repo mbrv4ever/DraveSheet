@@ -2,6 +2,12 @@
 
 Invulbare D&D character sheets.
 
+## 🎬 Uitlegvideo
+
+[![Uitlegvideo DraveSheet](https://dravenlock.nl/video/DraveSheet.jpg)](https://dravenlock.nl/video/DraveSheet.mp4)
+
+[▶ Bekijk de uitlegvideo](https://dravenlock.nl/video/DraveSheet.mp4) (ongeveer 2 minuten, Nederlands)
+
 *Categorie: Tools en kantoor · versie 0.4.4*
 
 ## ⬇️ Downloaden (Windows, geen Python nodig)
